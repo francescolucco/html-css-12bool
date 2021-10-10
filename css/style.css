@@ -1,0 +1,25 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.box{
+  padding: 15px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  border: 1px solid white;
+  min-height: 50px;
+}
+
+.box-nesting{
+  padding: 10px;
+  color: white;
+  text-align: center;
+  border: 1px solid white;
+  background-color: rgb(46, 230, 22);
+}
+
+.row.special{
+  margin-bottom: 20px;
+}
+

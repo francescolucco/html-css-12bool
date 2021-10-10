@@ -6,7 +6,7 @@
 
 .conteiner{
   width: 100%;
-  margin: 0 auto;
+  margin:auto;
 }
 
 .conteiner-fluid{
@@ -165,14 +165,38 @@
   flex-basis: calc((100% / 12) * 12);
   max-width: calc((100% / 12) * 12);
 }
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
+
+/* COL offset RESPONSIVE*/
+.col-offset-xs-1{
+  margin-left: calc((100% / 12) * 1);
+}
+.col-offset-xs-2{
+  margin-left: calc((100% / 12) * 2);
+}
+.col-offset-xs-3{
+  margin-left: calc((100% / 12) * 3);
+}
+.col-offset-xs-4{
+  margin-left: calc((100% / 12) * 4);
+}
+.col-offset-xs-5{
+  margin-left: calc((100% / 12) * 5);
+}
+.col-offset-xs-6{
+  margin-left: calc((100% / 12) * 6);
+}
+.col-offset-xs-7{
+  margin-left: calc((100% / 12) * 7);
+}
+.col-offset-xs-8{
+  margin-left: calc((100% / 12) * 8);
+}
+.col-offset-xs-9{
+  margin-left: calc((100% / 12) * 9);
+}
+.col-offset-xs-10{
+  margin-left: calc((100% / 12) * 10);
+}
+.col-offset-xs-11{
+  margin-left: calc((100% / 12) * 11);
+}
